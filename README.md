@@ -7,7 +7,7 @@ Installation
 
 ### Requirements
 
-`_s` requires the following dependencies:
+`BlogRock` requires the following dependencies:
 
 - [Node.js](https://nodejs.org/)
 - [Composer](https://getcomposer.org/)
