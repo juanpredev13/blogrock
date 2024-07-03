@@ -69,6 +69,7 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 html {
 	line-height: 1.15;
 	-webkit-text-size-adjust: 100%;
+	overflow-x: hidden;
 }
 
 /* Sections
@@ -473,6 +474,7 @@ big {
 --------------------------------------------- */
 body {
 	background: #fff;
+	overflow-x: hidden;
 }
 
 hr {
@@ -944,6 +946,7 @@ h2 {
     max-width: 1170px;
     margin: 0 auto;
     padding: 0 15px;
+	overflow-x: hidden;
 }
 
 /* Remove borders and border-radius from all images */
@@ -1334,8 +1337,8 @@ img {
 }
 
 .about-us__image {
-    width: 453px;
-    height: 627px;
+    /* width: 453px;
+    height: 627px; */
 }
 
 .about-us__image img {
